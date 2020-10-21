@@ -248,7 +248,7 @@ const EcommercePage = () => {
                   </MDBTooltip>
                   <MDBTooltip domElement placement='top'>
                     <i className='grey-text fa fa-heart' />
-                    <span>Add to Whishliste</span>
+                    <span>Add to Whishlist</span>
                   </MDBTooltip>
                 </span>
               </MDBCardFooter>
